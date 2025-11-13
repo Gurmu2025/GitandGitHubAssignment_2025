@@ -10,13 +10,13 @@ All major Git operations, including initialization, staging, committing, pushing
 
 The main objectives of this assignment are:
 
-- ✅ Create a **local Git repository** and make multiple commits.  
-- ✅ Create a **remote repository** on **GitHub**.  
-- ✅ Synchronize the **local repository** with the **remote repository** (push/pull).  
-- ✅ Understand and apply the **basic Git workflow:**  
+- Create a **local Git repository** and make multiple commits.  
+-  Create a **remote repository** on **GitHub**.  
+- Synchronize the **local repository** with the **remote repository** (push/pull).  
+- Understand and apply the **basic Git workflow:**  
   `git add → git commit → git push`
-- ✅ Create a **well-structured README.md** file using Markdown.  
-- ✅ Share the work **publicly on GitHub**.
+- Create a **well-structured README.md** file using Markdown.  
+- Share the work **publicly on GitHub**.
 
 ---
 
